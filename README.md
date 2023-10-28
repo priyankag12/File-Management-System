@@ -10,7 +10,7 @@
 ### Bitmaps: Bitmaps are used to track the allocation of blocks or sectors on a storage device. They help identify free and occupied storage areas.
 ### Indexes: Indexes are used to accelerate file retrieval. They store metadata about file locations, making it quicker to locate and access files.
 
-## Applications of File Management Systems:**
+## Applications of File Management Systems:
 ### Data Organization: File management systems ensure that data is organized efficiently, making it easy for users and applications to locate and access files.
 ### Data Security: File management systems implement access control and permissions to protect data from unauthorized access.
 ### File Versioning: They often support version control, allowing users to track changes to files and revert to previous versions if needed.
@@ -25,4 +25,4 @@
 ### Database Management Systems: Database systems incorporate file management capabilities to organize and access structured data efficiently.
 ### Cloud Storage Services: Cloud providers use file management systems to offer storage solutions with features like synchronization and file sharing.
 
-###In summary, file management systems are pivotal in the efficient organization, storage, and retrieval of data in computer systems. These systems leverage a variety of data structures to accomplish tasks related to file and directory management, leading to enhanced data security, organization, and performance for both individual users and enterprises.
+### In summary, file management systems are pivotal in the efficient organization, storage, and retrieval of data in computer systems. These systems leverage a variety of data structures to accomplish tasks related to file and directory management, leading to enhanced data security, organization, and performance for both individual users and enterprises.
